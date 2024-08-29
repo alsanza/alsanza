@@ -1,5 +1,14 @@
-## Hi there Alejandro 👋
+<div align="center">
+  <h1>Hi there Alejandro 👋</h1>
+</div>
+<div align="center">
+  <img src="https://img.freepik.com/vector-gratis/ilustracion-concepto-programacion_114360-1351.jpg?t=st=1724888659~exp=1724892259~hmac=78f450107942c40400ea69cb1cb6cd240699b96fa06b81f1021b003d5b26ec81&w=740" width="295">
+</div>
 
+## Sobre mí
+
+- 💬 Ask me about ...
+- 
 <!--
 **alsanza/alsanza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
