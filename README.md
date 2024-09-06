@@ -2,13 +2,16 @@
   <h1>Hi there Alejandro 👋</h1>
 </div>
 <div align="center">
-  <img src="https://img.freepik.com/vector-gratis/ilustracion-concepto-programacion_114360-1351.jpg?t=st=1724888659~exp=1724892259~hmac=78f450107942c40400ea69cb1cb6cd240699b96fa06b81f1021b003d5b26ec81&w=740" width="295">
+  <img src="https://img.freepik.com/foto-gratis/robot-futurista-escuchando-musica-auriculares_23-2151073023.jpg?t=st=1725587320~exp=1725590920~hmac=cee4821742f3ef70c79448954d939e6a0640b65c997cb9a3360ac08ec54381e4&w=740" width="120">
+  # Bienvenid@ al Github de Alejandro
 </div>
+<!--agregar un banner 
+![Banner alsanza]()-->
 
-## Sobre mí
+<!-- BADGETS -->
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
-- 💬 Ask me about ...
-- 
 <!--
 **alsanza/alsanza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
