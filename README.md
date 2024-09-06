@@ -1,14 +1,12 @@
-# <div align="center">
-  <h1>Hi there Alejandro 👋</h1>
-  <img src="https://img.freepik.com/foto-gratis/robot-futurista-escuchando-musica-auriculares_23-2151073023.jpg?t=st=1725587320~exp=1725590920~hmac=cee4821742f3ef70c79448954d939e6a0640b65c997cb9a3360ac08ec54381e4&w=740" width="220">
+# <img src="" width="220">
+  Hi there Alejandro
   # Bienvenid@ al Github de Alejandro
-</div>
-<!--agregar un banner 
-![Banner alsanza]()-->
+<!--agregar un banner -->
+![Banner alsanza](https://img.freepik.com/foto-gratis/robot-futurista-escuchando-musica-auriculares_23-2151073023.jpg?t=st=1725587320~exp=1725590920~hmac=cee4821742f3ef70c79448954d939e6a0640b65c997cb9a3360ac08ec54381e4&w=740)
 
-<!-- BADGETS -->
-[![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCU_eT4K1w7pkay8oyCltnJA)
+<!-- BADGETS CON ENLACE -->
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCU_eT4K1w7pkay8oyCltnJA)
 
 <!--
 **alsanza/alsanza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
